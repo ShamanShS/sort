@@ -1,0 +1,15 @@
+C:\c#\sort\bin\Debug\net6.0\sort.exe
+C:\c#\sort\bin\Debug\net6.0\sort.deps.json
+C:\c#\sort\bin\Debug\net6.0\sort.runtimeconfig.json
+C:\c#\sort\bin\Debug\net6.0\sort.dll
+C:\c#\sort\bin\Debug\net6.0\sort.pdb
+C:\c#\sort\obj\Debug\net6.0\sort.csproj.AssemblyReference.cache
+C:\c#\sort\obj\Debug\net6.0\sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\sort\obj\Debug\net6.0\sort.AssemblyInfoInputs.cache
+C:\c#\sort\obj\Debug\net6.0\sort.AssemblyInfo.cs
+C:\c#\sort\obj\Debug\net6.0\sort.csproj.CoreCompileInputs.cache
+C:\c#\sort\obj\Debug\net6.0\sort.dll
+C:\c#\sort\obj\Debug\net6.0\refint\sort.dll
+C:\c#\sort\obj\Debug\net6.0\sort.pdb
+C:\c#\sort\obj\Debug\net6.0\sort.genruntimeconfig.cache
+C:\c#\sort\obj\Debug\net6.0\ref\sort.dll
